@@ -25,18 +25,9 @@ To install the action, we have to check some dependencies and than do the follow
 
 1. open Adobe Acrobat and go to the Action Wizard menue
 
-
-![Adobe Action part 2](https://media.giphy.com/media/xUNd9ZftI7F2n0tRF6/giphy.gif)
-
 2. creat a new Action 
 
-
-![Adobe Action part 3](https://media.giphy.com/media/l4Ep4IuDhczpB3iww/giphy.gif)
-
 3. add A Js Script to the action
-
-
-![Adobe Action part 4](https://media.giphy.com/media/l4EoXT1B4Xz3RWv8Q/giphy.gif)
  
 4. copy the Code from below or the printAction.js in the repositiory and paste it into the Js file of the action
 
