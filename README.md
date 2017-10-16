@@ -1,4 +1,4 @@
-# adobe-actions // MACOS
+# adobe-actions // macOS
 A collection of Js files for different Adobe Acrobat Actions.<br>
 YOU NEED TO HAVE ADOBE ACROBAT CC FOR EVERY THING IN THIS REPOSITORY.
 
