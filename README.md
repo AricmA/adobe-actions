@@ -53,4 +53,4 @@ this.print(false,0,1,true);
 
 To use the action. Just open it select over the file manager a bounch of files and run it.
 Have fun. And if anybody using this or is reading this and is having troubles.
-Write me an email: support@aricma.com(mailto:adrian@aricma.com)
+Write me an email: support@aricma.com
